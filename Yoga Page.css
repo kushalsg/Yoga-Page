@@ -1,0 +1,120 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.background-container {
+    background-color: #ffedcb;
+    background-size: cover;
+    height: 120vh;
+    padding: 30px;
+    text-align: center;
+    background-image: url("https://assets.ccbp.in/frontend/static-website/yoga-bg.png");
+}
+
+.background-head-txt {
+    font-family: Roboto;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    color: #132d84;
+}
+
+.background-img {
+    margin-top: 220px;
+}
+
+.background-para-txt {
+    font-family: Roboto;
+    text-align: center;
+    color: #323f4b;
+}
+
+.background-button-txt {
+    background-color: #132d84;
+    border-radius: 10px;
+    color: #ffe2ab;
+}
+
+.types-bg-container {
+    background-color: #ffedcb;
+    background-size: cover;
+    height: 150vh;
+    text-align: center;
+}
+
+.types-img {
+    margin-top: 10px;
+}
+
+.types-head-txt {
+    font-family: Roboto;
+    text-align: center;
+    font-size: 22px;
+    color: #132d84;
+    margin-top: 10px;
+}
+
+.types-card1-container {
+    background-color: #ffe2ab;
+    background-size: cover;
+    border-radius: 20px;
+    text-align: left;
+    padding: 10px;
+    margin: 20px;
+    width: 350px;
+    height: 110px;
+}
+
+.types-card2-container {
+    background-color: #ffe2ab;
+    background-size: cover;
+    border-radius: 20px;
+    text-align: left;
+    padding: 10px;
+    margin: 20px;
+    width: 350px;
+    height: 120px;
+}
+
+.types-card3-container {
+    background-color: #ffe2ab;
+    background-size: cover;
+    border-radius: 20px;
+    text-align: left;
+    padding: 10px;
+    margin: 20px;
+    width: 350px;
+    height: 110px;
+}
+
+.types-card4-container {
+    background-color: #ffe2ab;
+    background-size: cover;
+    border-radius: 20px;
+    text-align: left;
+    padding: 10px;
+    margin: 20px;
+    width: 350px;
+    height: 120px;
+}
+
+.types-card-head-txt {
+    font-family: Roboto;
+    font-size: 15px;
+    color: #132d84;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.types-card-para-txt {
+    font-family: Roboto;
+    font-size: 12px;
+    color: #253263;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+
+.types-button-txt {
+    background-color: #132d84;
+    border-radius: 10px;
+    color: #ffe2ab;
+}
